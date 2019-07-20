@@ -3,7 +3,7 @@ def find_element_index(array, value_to_find)
   array.length.times { |index|
   
     while array[index] == value_to_find
-      puts index
+      index
     end
     
   }
