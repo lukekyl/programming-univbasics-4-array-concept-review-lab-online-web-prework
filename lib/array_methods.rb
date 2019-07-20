@@ -22,6 +22,7 @@ def find_max_value(array)
       value = array[index]
     else
       value = value
+    end
   }
   return value
 end
